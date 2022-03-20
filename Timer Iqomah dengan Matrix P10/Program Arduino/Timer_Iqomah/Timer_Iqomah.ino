@@ -1,8 +1,5 @@
 /*************************************
- * Program : Project 122. Timer Iqomah dengan Matrix P10
- * 125 Proyek Arduino Inkubatek
- * www.inkubator-teknologi.com
- * www.tokotronik.com
+JID
  * ***********************************/
 
 #include <SPI.h>        
